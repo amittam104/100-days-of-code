@@ -7,3 +7,11 @@
 **Thoughts:** Felt good after understanding how closure works in the JavaScript.
 
 **Link to work:** https://github.com/amittam104/PigGame
+
+### Day 2: January 16, 2024
+
+**Today's Progress:** Learned about array methods. Worked on building small components. Today started with accordion. Will keep working on that.
+
+**Thoughts:** Had to struggle with CSS while working on the accordian. Took more time than I emagined.
+
+**Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
