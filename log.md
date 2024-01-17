@@ -15,3 +15,11 @@
 **Thoughts:** Had to struggle with CSS while working on the accordian. Took more time than I emagined.
 
 **Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
+
+### Day 3: January 17, 2024
+
+**Today's Progress:** Revised array methods. Updated stlye and logic part of the accordion.
+
+**Thoughts:** More struggle on CSS. Built the logic part easily. Tomorrow will refactor the code.
+
+**Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
