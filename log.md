@@ -23,3 +23,19 @@
 **Thoughts:** More struggle on CSS. Built the logic part easily. Tomorrow will refactor the code.
 
 **Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
+
+### Day 4: January 18, 2024
+
+**Today's Progress:** Diving more into JS theory. Completed the accordian component. Started with a new one, simple preview card - focsued on design aspects.
+
+**Thoughts:** Getting my grove back in CSS, still having some tough time. JS thoery is going good.
+
+**Link to work:** https://github.com/amittam104/Preview-Card
+
+### Day 5: January 19, 2024
+
+**Today's Progress:** Completed the simple preview card comp. Started with new one -Recipe page component. Learned the forEach Method in JS. Watched some old tutorials about responsive design and units.
+
+**Thoughts:** JS thoery is going good. Felt bad that I had to revise the media queries and basics of responsive deisgn.
+
+**Link to work:** https://github.com/amittam104/Preview-Card
