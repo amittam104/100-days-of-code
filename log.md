@@ -34,8 +34,8 @@
 
 ### Day 5: January 19, 2024
 
-**Today's Progress:** Completed the simple preview card comp. Started with new one -Recipe page component. Learned the forEach Method in JS. Watched some old tutorials about responsive design and units.
+**Today's Progress:** Completed the simple preview card comp. Started with new one - Social link card. Learned the forEach Method in JS. Watched some old tutorials about responsive design and units. Later in the night started with new component - Recipe page
 
 **Thoughts:** JS thoery is going good. Felt bad that I had to revise the media queries and basics of responsive deisgn.
 
-**Link to work:** https://github.com/amittam104/Preview-Card
+**Link to work:** [https://github.com/amittam104/Preview-Card](https://github.com/amittam104/Social-Link-Profile)https://github.com/amittam104/Social-Link-Profile
