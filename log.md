@@ -39,3 +39,11 @@
 **Thoughts:** JS thoery is going good. Felt bad that I had to revise the media queries and basics of responsive deisgn.
 
 **Link to work:** [https://github.com/amittam104/Preview-Card](https://github.com/amittam104/Social-Link-Profile)https://github.com/amittam104/Social-Link-Profile
+
+### Day 6: January 20, 2024
+
+**Today's Progress:** Completed the Recipe page component. Had some setbacks but it is done. The started with bankist app and did some DOM manipulation.
+
+**Thoughts:** Learned new things in DOM manipulation. Felt good while working on comp. Remembering the Responsive design process.
+
+**Link to work:** [https://github.com/amittam104/Preview-Card](https://github.com/amittam104/Social-Link-Profile)https://github.com/amittam104/Social-Link-Profile
