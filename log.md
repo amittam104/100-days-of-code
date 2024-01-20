@@ -14,7 +14,7 @@
 
 **Thoughts:** Had to struggle with CSS while working on the accordian. Took more time than I emagined.
 
-**Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
+**Link to work:** https://github.com/amittam104/Accordion-Component
 
 ### Day 3: January 17, 2024
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** More struggle on CSS. Built the logic part easily. Tomorrow will refactor the code.
 
-**Link to work:** [https://github.com/amittam104/PigGame](https://github.com/amittam104/Accordion-Component)https://github.com/amittam104/Accordion-Component
+**Link to work:** https://github.com/amittam104/Accordion-Component
 
 ### Day 4: January 18, 2024
 
@@ -38,7 +38,7 @@
 
 **Thoughts:** JS thoery is going good. Felt bad that I had to revise the media queries and basics of responsive deisgn.
 
-**Link to work:** [https://github.com/amittam104/Preview-Card](https://github.com/amittam104/Social-Link-Profile)https://github.com/amittam104/Social-Link-Profile
+**Link to work:** https://github.com/amittam104/Social-Link-Profile
 
 ### Day 6: January 20, 2024
 
