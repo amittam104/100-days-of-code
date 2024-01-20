@@ -46,4 +46,4 @@
 
 **Thoughts:** Learned new things in DOM manipulation. Felt good while working on comp. Remembering the Responsive design process.
 
-**Link to work:** [https://github.com/amittam104/Preview-Card](https://github.com/amittam104/Social-Link-Profile)https://github.com/amittam104/Social-Link-Profile
+**Link to work:** https://github.com/amittam104/Social-Link-Profile](https://github.com/amittam104/Recipe-Page)https://github.com/amittam104/Recipe-Page
