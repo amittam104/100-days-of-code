@@ -47,3 +47,11 @@
 **Thoughts:** Learned new things in DOM manipulation. Felt good while working on comp. Remembering the Responsive design process.
 
 **Link to work:** https://github.com/amittam104/Recipe-Page
+
+### Day 7: January 21, 2024
+
+**Today's Progress:** Completed the result summary component. Did coding challenge of JS (Array methods). Learned about 3 new mehtonds of arrays (MAP, FILTER, REDUCE). Dived into MAP method.
+
+**Thoughts:** Getting me froove back in CSS and HTML. Building small components is giving me confidence boost each day and at the same time learning new concepts in JS is keeping my brain sharp and feeling good. Gave more time to study today so feeling good on this achievement. 
+
+**Link to work:** https://github.com/amittam104/Recipe-Page
