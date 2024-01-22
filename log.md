@@ -55,3 +55,11 @@
 **Thoughts:** Getting me froove back in CSS and HTML. Building small components is giving me confidence boost each day and at the same time learning new concepts in JS is keeping my brain sharp and feeling good. Gave more time to study today so feeling good on this achievement. 
 
 **Link to work:** https://github.com/amittam104/Recipe-Page
+
+### Day 8: January 22, 2024
+
+**Today's Progress:** Completed the product overview component. Working on the next one. Also gradually working on the simple finance app while working with JS theory concepts.
+
+**Thoughts:** Felt some difficulty getting the mobile design. Not much progress on the Bankist app but working slowly.
+
+**Link to work:** https://github.com/amittam104/Product-Profile-Card
