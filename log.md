@@ -63,3 +63,11 @@
 **Thoughts:** Felt some difficulty getting the mobile design. Not much progress on the Bankist app but working slowly.
 
 **Link to work:** https://github.com/amittam104/Product-Profile-Card
+
+### Day 9: January 23, 2024
+
+**Today's Progress:** Started a rating component. This has to be responsive & will show a new modal window on interaction. Markup & style are almost done. Will be working on logic part tomorrow. Learned about filter method and worked a bit on bankist app.
+
+**Thoughts:** Learned some new CSS hover properties. Felt good after learning something new. Understood the MAP and Filter Method. Will have to use them myself to reinforce the learning.
+
+**Link to work:** https://github.com/amittam104/Rating-comp
