@@ -71,3 +71,11 @@
 **Thoughts:** Learned some new CSS hover properties. Felt good after learning something new. Understood the MAP and Filter Method. Will have to use them myself to reinforce the learning.
 
 **Link to work:** https://github.com/amittam104/Rating-comp
+
+### Day 10: January 23, 2024
+
+**Today's Progress:** Completed the rating component with all the logic and style needed. Continued on the JS theory and finance app logic. 
+
+**Thoughts:** Learned new things in Js and soldified old ones. It was good working in JS. Had to took some help from AI.
+
+**Link to work:** https://github.com/amittam104/Rating-comp
