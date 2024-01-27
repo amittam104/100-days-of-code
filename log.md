@@ -72,10 +72,26 @@
 
 **Link to work:** https://github.com/amittam104/Rating-comp
 
-### Day 10: January 23, 2024
+### Day 10: January 24, 2024
 
 **Today's Progress:** Completed the rating component with all the logic and style needed. Continued on the JS theory and finance app logic. 
 
 **Thoughts:** Learned new things in Js and soldified old ones. It was good working in JS. Had to took some help from AI.
 
 **Link to work:** https://github.com/amittam104/Rating-comp
+
+### Day 11: January 25, 2024
+
+**Today's Progress:** Moved away from components and started working on entire sections. Working on Testimonial section.
+
+**Thoughts:** Feeling good on HTML and CSS part. JS DOM is also looking good. 
+
+**Link to work:** https://github.com/amittam104/Testimonial-section
+
+### Day 12: January 26, 2024
+
+**Today's Progress:** Testimonial section  responsive design completed. Took some time to work on the responsive mobile version.
+
+**Thoughts:** Making responsive mobile design was hard for this section. Took so much time changing the properties and updating the design. Now it's done.
+
+**Link to work:** https://github.com/amittam104/Testimonial-section
